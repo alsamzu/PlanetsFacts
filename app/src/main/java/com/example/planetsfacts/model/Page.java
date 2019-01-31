@@ -1,7 +1,7 @@
 package com.example.planetsfacts.model;
 
 public class Page {
-private int textId;
+private  int textId;
 
     public Page(int textId) {
         this.textId = textId;
